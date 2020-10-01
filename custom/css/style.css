@@ -1,0 +1,162 @@
+body{
+	margin: 0px;
+	font-family: 'Myriad Pro';
+
+}
+
+*{
+	margin: 0px;
+}
+
+
+.t-bg{
+	background-color: #f5f6fa;
+}
+
+p{
+	font-size: 14px;
+}
+
+
+
+header{
+	background-color: #223047;
+}
+
+.t-nav-bg{
+	background-color: #223047;
+}
+
+
+.t-btn-bg{
+	background-color: #00fff0;
+}
+
+
+.Banner{
+
+	border-top: 1px solid #424e62;
+	min-height: 450px;
+	background-color: #223047;
+	position: relative;
+}
+
+
+.banner-btn{
+	padding-left: 150px;
+	padding-top: 65px;
+	padding-bottom: 100px;
+}
+
+.Banner h2{
+	 padding-top: 100px;
+	 padding-left: 150px;
+}
+
+.Banner p{
+	 padding-left: 150px; 
+	 font-size: 13px;
+}
+
+.fly{
+	
+	padding-left: 200px;	
+	bottom: -180px;
+	position: relative;
+}
+
+.banner-txt{
+	padding-left: 400px;
+}
+
+
+
+.services{
+	min-height: 400px;
+}
+.stability{
+	min-height: 300px;
+	padding: 100px 0;
+}
+.advantages{
+	
+	padding-bottom: 65px;
+}
+
+.need{
+	
+	padding: 100px 0;
+}
+
+.toggle_content {
+    background-color: black !important;
+}
+
+
+
+.saying{
+	
+	background-color: #223047;
+	padding: 100px 0;
+	text-align: center;
+
+}
+
+.saying p{
+	color: #00fff1;
+
+}
+
+.mobiles{
+	
+	background-color: #f5f6fa;
+	padding: 70px 0;
+
+}
+
+.mob-1{
+
+	background-image: url(../../img/1170-pix-Bootstrap-Grid_07.jpg);
+	min-height: 414px;
+	width: 200px;
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	float: left;
+	position: relative;
+	z-index: 9;
+
+}
+
+.mob-2{
+
+	background-image: url(../../img/1170-pix-Bootstrap-Grid_07.jpg);
+	min-height: 414px;
+	width: 200px;
+	background-repeat: no-repeat;
+	background-size: 80% 80%;
+	right: 50px;
+	position: absolute;
+	z-index: 1;
+
+}
+
+/*.btn{
+	min-height: 50px;
+}*/
+
+.ls{
+	padding-bottom: 70px;
+}
+
+.getInTouch{
+	padding-bottom: 45px;
+}
+
+.frm{
+	padding-bottom: 70px;
+}
+
+.ft{
+	background-color: #223047;
+	padding: 25px 0 25px 0;
+}
